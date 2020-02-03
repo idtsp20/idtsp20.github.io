@@ -1,1 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
 
+body {
+  font-family: "Georgia", serif;
+  color: #000000;
+  line-height: 140%;
+  margin: 30px;
+  background-color: #F7F3DE;
+}
+
+header {
+  font-size: 350%;
+  color: #7c1a00;
+  padding: 40px;
+  left-padding: 120px;
+}
