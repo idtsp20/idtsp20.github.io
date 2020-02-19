@@ -32,3 +32,11 @@
   clear: both;
   display: table;
 }
+
+header {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
